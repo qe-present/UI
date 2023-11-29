@@ -1,0 +1,7 @@
+
+fpython:S2208"GImport only needed names or import the module and then use its members.(†ÄÅ¼8—‹î´1
+kpython:S2208"GImport only needed names or import the module and then use its members.(ë°ÜÁûÿÿÿÿ8˜‹î´1
+fpython:S2208"GImport only needed names or import the module and then use its members.(¾ß€š8š‹î´1
+Gpython:S108B")Either remove or fill this block of code.(ã‘Û¾8›‹î´1
+Kpython:S1481H",Replace unused local variable "ok" with "_".(™Ö ®8œ‹î´1
+spython:S3776y"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(™±÷ÿ8§‹î´1

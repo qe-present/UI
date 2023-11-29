@@ -1,0 +1,11 @@
+
+fpython:S2208"GImport only needed names or import the module and then use its members.(†ÄÅ¼8øûıĞ±1
+kpython:S2208"GImport only needed names or import the module and then use its members.(ë°ÜÁûÿÿÿÿ8ùûıĞ±1
+fpython:S2208"GImport only needed names or import the module and then use its members.(¾ß€š8ùûıĞ±1
+qpython:S116"SRename this field "tableWidget" to match the regular expression ^[_a-z][_a-z0-9]*$.(¿ãçå8ùûıĞ±1
+~python:S101"aRename class "Ui_Form" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(˜Í’a8ùûıĞ±1
+npython:S117"PRename this parameter "Form" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëö‘¹8ùûıĞ±1
+ipython:S100"KRename method "setupUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ëö‘¹8şûıĞ±1
+spython:S117"PRename this parameter "Form" to match the regular expression ^[_a-z][a-z0-9_]*$.(ı‰·úÿÿÿÿ8şûıĞ±1
+tpython:S100"QRename method "retranslateUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(ı‰·úÿÿÿÿ8şûıĞ±1
+Jpython:S1481+",Replace unused local variable "ok" with "_".(³£8ÿûıĞ±1

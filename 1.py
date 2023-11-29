@@ -1,0 +1,1 @@
+designer - --output-dir plugins

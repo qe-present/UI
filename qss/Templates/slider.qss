@@ -1,0 +1,12 @@
+QSlider::groove:{{slider_type}}{
+    border:none;
+    height:{{height}}px;
+    width:{{width}}px;
+    margin:-{{((handle_width/2)-margin)|int}}px;
+}
+{% block sub_page%}
+{% endblock %}
+{% block add_page%}
+{% endblock %}
+{% block handle%}
+{% endblock %}

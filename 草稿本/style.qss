@@ -1,0 +1,17 @@
+QSlider::groove:Horizontal {
+    border:none;
+    height:{{height}}px;
+    width:{{width}}px;
+    margin:-{{((handle_width/2)-margin)|int}}px;
+}
+QSlider::add-page:Horizontal {
+    background: {{add_color}};
+}
+QSlider::sub-page:Horizontal {
+    background: {{sub_color}};
+}
+QSlider::handle:Horizontal {
+    background:{{handle_color}};
+    width:{{handle_width}}px;
+    border-radius: {{(handle_width/2)|int}}px;
+}

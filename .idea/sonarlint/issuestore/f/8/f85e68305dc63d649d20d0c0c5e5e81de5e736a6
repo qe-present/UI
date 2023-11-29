@@ -1,0 +1,7 @@
+
+hpython:S116"QRename this field "tableView" to match the regular expression ^[_a-z][_a-z0-9]*$.(³Æò…
+wpython:S101"aRename class "Ui_Form" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(˜Í’a
+gpython:S117"PRename this parameter "Form" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëö‘¹
+bpython:S100"KRename method "setupUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ëö‘¹
+lpython:S117z"PRename this parameter "Form" to match the regular expression ^[_a-z][a-z0-9_]*$.(ı‰·úÿÿÿÿ
+mpython:S100z"QRename method "retranslateUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(ı‰·úÿÿÿÿ

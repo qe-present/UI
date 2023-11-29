@@ -1,0 +1,18 @@
+{% extends 'slider.qss' %}
+{% block sub_page%}
+QSlider::sub-page:{{slider_type}}{
+    background: {{sub_color}};
+}
+{% endblock %}
+{% block add_page%}
+QSlider::add-page:{{slider_type}}{
+    background: {{add_color}};
+}
+{% endblock %}
+{% block handle %}
+QSlider::handle:{{slider_type}}{
+    background:{{handle_color}};
+    width:{{handle_width}}px;
+    border-radius: {{(handle_width/2)|int}}px;
+}
+{% endblock %}

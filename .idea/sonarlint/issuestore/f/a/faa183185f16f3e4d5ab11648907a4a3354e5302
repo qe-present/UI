@@ -1,0 +1,4 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(†ÄÅ¼
+Dpython:S1481!",Replace unused local variable "ok" with "_".(¾¢ü¦
+qpython:S1186("YAdd a nested comment explaining why this method is empty, or complete the implementation.(îú¦ç
